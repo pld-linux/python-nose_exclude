@@ -8,7 +8,7 @@ Summary:	Exclude specific directories from nosetests runs
 Summary(pl.UTF-8):	Wykluczanie określonych katalogów z zakresu nosetests
 Name:		python-nose_exclude
 Version:	0.5.0
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/nose-exclude/
